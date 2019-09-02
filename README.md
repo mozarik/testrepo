@@ -7,3 +7,5 @@ Hello my name is Zein Fahrozi, You can call me Zen. Right know im learning about
 
 ## My Passion
 Most of my day is playing game non-Stop but i think that is bad habit. And im really like computer stuff. I really like how computer can make human activities easier, i mean an AI that can diagonise a type of cancer, i think is pretty great stuff
+
+![headshot](propic.jpg)
